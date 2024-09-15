@@ -36,6 +36,7 @@ cd CGS616---Topic-Modelling
 ```
 
 2. Ensure that the `history.txt` file is in the same directory as the `topicmodelling.ipynb` notebook.
+Note: History file is removed due to privacy concerns
 
 3. Open the Jupyter Notebook:
 
