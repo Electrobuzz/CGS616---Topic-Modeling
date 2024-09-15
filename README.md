@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/your-repo/topic-modelling.git
-cd topic-modelling
+cd CGS616---Topic-Modelling
 ```
 
 2. Ensure that the `history.txt` file is in the same directory as the `topicmodelling.ipynb` notebook.
